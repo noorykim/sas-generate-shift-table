@@ -1,2 +1,2 @@
-# Generate a shift table using a multidimensional array and PROC FCMP
+# Making rapid shifts: Generating a shift table using multidimensional arrays and PROC FCMP
 
