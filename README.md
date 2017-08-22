@@ -10,15 +10,17 @@ This paper will discuss (1) a way to tally the count data for a shift table usin
 To be presented at a future SAS users conference.
 
 
-#
-
-[SAS Tips](/sas-tips)
-
-[Portfolio](/)
-
 
 #
 
 Posted 2017-08-21
 
 Updated 2017-08-22
+
+
+#
+
+[SAS Tips](/sas-tips)
+
+[Portfolio](/)
+
