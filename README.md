@@ -10,7 +10,7 @@ This paper will discuss (1) a way to tally the count data for a shift table usin
 To be presented at a future SAS users conference.
 
 
-# Illustration: Code for a 4x4 table
+## Illustration: Code for a 4x4 table
 
 ```
 data scores;
