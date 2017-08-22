@@ -80,7 +80,7 @@ proc fcmp ;
 	rc = write_array('pcts', pcts);
 run;
 
-%*options cmplib=work.mylib;
+%*options cmplib=work.mylib;  /* not needed if only using pre-defined FCMP functions */
 
 
 data shifttable;
