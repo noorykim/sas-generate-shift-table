@@ -1,4 +1,4 @@
-# Making a rapid shift: Generating a shift table using multidimensional arrays and PROC FCMP
+# Generating a shift from baseline table using multidimensional arrays and PROC FCMP
 
 ## Abstract
 A shift from baseline table, also known as a shift table, is an n-by-n matrix in which the row and column positions correspond respectively to a category before and after a time point and/or treatment. 
