@@ -5,9 +5,6 @@ A shift from baseline table, also known as a shift table, is an n-by-n matrix in
 
 This paper will discuss (1) a way to tally the count data for a shift table using a multidimensional array and (2) a way to calculate percentages for a shift table using matrix operations built into the SAS Function Compiler (PROC FCMP), which (unlike PROC IML) is part of Base SAS.
 
-#
-
-To be presented at a future SAS users conference.
 
 
 ## Illustration: Code for a 4x4 table
