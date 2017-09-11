@@ -3,7 +3,7 @@
 ## Intro
 A shift from baseline table, also known as a shift table, is an n-by-n matrix in which the row and column positions correspond respectively to a category before and after a time point and/or treatment. 
 
-The code below generates a shift table by (1) tallying the count data using a multidimensional array and (2) calculating percentages for a shift table using matrix operations built into the SAS Function Compiler (PROC FCMP). (Unlike PROC IML, PROC FCMP comes with Base SAS.)
+The code below generates a shift table by (1) tallying the count data using a multidimensional array and (2) calculating percentages for a shift table using matrix operations built into the SAS Function Compiler (PROC FCMP). (Unlike PROC IML, PROC FCMP is included in Base SAS.)
 
 
 ## Illustration: Code for a 4x4 table
